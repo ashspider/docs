@@ -30,7 +30,7 @@ pragma solidity =0.7.6;
 pragma abicoder v2;
 ```
 
-Import the two relevant contracts from the npm package installation
+Import the two relevant contracts from the npm package
 
 ```solidity
 import '@uniswap/v3-periphery/contracts/interfaces/ISwapRouter.sol';
